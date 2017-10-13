@@ -2,6 +2,7 @@
  * @param {number[]} nums
  * @param {number} target
  * @return {number[]}
+ * @link https://leetcode.com/problems/two-sum/description/
  */
 var twoSum = function(nums, target) {
     for(var i=0; i< nums.length; ++i) {

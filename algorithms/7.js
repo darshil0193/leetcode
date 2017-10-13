@@ -1,6 +1,7 @@
 /**
  * @param {number} x
  * @return {number}
+ * @link https://leetcode.com/problems/reverse-integer/description/
  */
 var reverse = function(x) {
     var reverseNumber = '0';
